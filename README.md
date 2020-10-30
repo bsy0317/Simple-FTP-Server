@@ -1,9 +1,9 @@
+<img src="header.png" width="329" height="150">
+
 # Simple FTP Server
 >FTP server(RFC959) in C language.
 RFC959 표준을 지키는 FTP 서버 입니다.  
 현재 Passive 모드만 지원합니다. 향후 Active 모드를 지원할 예정입니다.  
-
-![](../header.png)
 
 
 ## 필요 라이브러리  
