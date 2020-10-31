@@ -1,4 +1,4 @@
-<img src="header.png" width="329" height="150">
+<p align="center"><img src="header.png" width="329" height="150"></p>
 
 # Simple FTP Server
 >FTP server(RFC959) in C language.
